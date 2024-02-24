@@ -17,7 +17,7 @@ This project is an Automata Simulator Tools implemented in Python. It enables us
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/Automata-Simulator-Tools-py.git
+    git clone https://github.com/dixi-andrei/Automata-Simulator-Tools-Py
     cd automata-simulator-tools-py
     ```
 
