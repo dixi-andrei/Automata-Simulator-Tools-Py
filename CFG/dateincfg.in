@@ -1,0 +1,9 @@
+[Variables]
+S, *
+[Terminals]
+[
+]
+[Rules]
+S->S,[,S,],S
+S->[,]
+S->$

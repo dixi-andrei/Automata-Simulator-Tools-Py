@@ -1,0 +1,9 @@
+[Variables]
+S, *
+A
+[Terminals]
+a
+b
+[Rules]
+S->a,A,b
+A->b

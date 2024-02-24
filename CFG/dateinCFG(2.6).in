@@ -1,0 +1,11 @@
+[Variables]
+S, *
+A
+B
+[Terminals]
+0
+1
+[Rules]
+S->A,O,B
+A->0A,$
+B->1,B,$
